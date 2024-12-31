@@ -81,7 +81,7 @@
 
 - 扭曲的世界
 - 起点、终点
-- CROSS CLUE, CROSS LINE
+- CROSS CLUE, CROSS WORD
 - 变形术导论
 - 谜诗秘事
 - 一辈子组俱乐部
@@ -98,7 +98,7 @@
 
 - 扭曲的世界
 - 起点、终点
-- CROSS CLUE, CROSS LINE
+- CROSS CLUE, CROSS WORD
 - 变形术导论
 - 谜诗秘事
 - 数连游戏
